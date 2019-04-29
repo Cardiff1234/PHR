@@ -1,6 +1,6 @@
 ## LICENSE
 
-Owner Notice: The Owner of this software, PHR, is the National Institutes of Health/Department of Health and Human Services, Bethesda, MD, U.S.A. All rights reserved.
+Owner Notice: The Owner of this software, PHR, is Cardiff All rights reserved.
 
 The software includes the following third-party elements, which are released under open-source licenses (as noted):
 
