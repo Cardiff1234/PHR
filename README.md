@@ -33,19 +33,3 @@ The data for an individual may be shared with others.  This feature is enabled o
 
 ####	A Basic HTML Mode
 The standard mode for the PHR uses Javascript extensively.  For users who need a more accessible version, a “Basic” mode is provided which requires no javascript.
-
-#### More Information, Documentation
-Detailed user and technical documentation may be found [here](https://lhncbc.github.io/phr/).
-
-This software, PHR, was developed by the National Library of Medicine (NLM) Lister Hill National Center for Biomedical Communications (LHNCBC), part of the National Institutes of Health (NIH).
-
-```
-Please cite as: 
-Lister Hill National Center for  Biomedical Communications
-National Library of Medicine
-Bethesda, Maryland
-```
-
-This software is distributed under a BSD-style open-source license. See [LICENSE.md](https://github.com/lhncbc/PHR/blob/master/LICENSE.md).
-
-No warranty or indemnification for damages resulting from claims brought by third parties whose proprietary rights may be infringed by your usage of this software are provided by any of the owners.
